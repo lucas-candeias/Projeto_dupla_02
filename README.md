@@ -20,4 +20,6 @@ Nosso site oferece uma variedade cuidadosamente selecionada de quadros decorativ
 
 Agradecemos seu interesse e esperamos que você aproveite sua experiência conosco.
 
+visite nosso site:
 
+https://lucas-candeias.github.io/Projeto_dupla_02/
